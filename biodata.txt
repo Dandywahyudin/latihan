@@ -1,7 +1,8 @@
-Nama 			: Dandy Wahyudin	
-Tempat Tanggal Lahir	: Bandung, 19 Oktober 2001
-Alamat			: Griya Cempaka Arum K5 No.4 RT01 RW 04 Kelurahan Rancanumpang Kecamatan Gedebage Kota Bandung
+Nama 			      : Dandy Wahyudin	
+TTL             : Bandung, 19 Oktober 2001
+Alamat			    : Griya Cempaka Arum K5 No.4 RT01 RW 04 Kelurahan Rancanumpang Kecamatan Gedebage Kota Bandung
 Asal Sekolah 		: SMK MedikaCom Bandung	
+Jurusan         : Teknik Komputer Jaringan
 No.Handphone		: 08996901370
-Email			: Dandywahyudin19@gmail.com
-github			: Dandywahyudin
+Email			      : Dandywahyudin19@gmail.com
+github			    : Dandywahyudin
